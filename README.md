@@ -13,7 +13,7 @@ compile the stuff in the three subdirectories.   See the file Makefile, which "m
 
 ~~~~~~~~~~~~~~~~~~~
 
-analyzeText reads standard input and spits out a list of unique words seen.
+uniquewords reads standard input and spits out a list of unique words seen.
 
 wordsToDefs reads standard input, which should be a single word per line,
             and looks each word up in the MacOS Dictionary Services, writing to stdout.

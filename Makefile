@@ -1,7 +1,6 @@
 # john jozwiak on 2019.05.14
 
-all:	parseOED  uniqueWords  wordsToDefs
-	# xcodebuild -alltargets -quiet
+all:	parseOED  uniqueWords  wordsToDefs # xcodebuild -alltargets -quiet
 	-@mkdir -p built
 	-@/bin/echo
 	-@/bin/ls -F
