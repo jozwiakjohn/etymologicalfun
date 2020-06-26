@@ -1,0 +1,440 @@
+   #alternate Edit this page Wikipedia (en)
+
+List of medical abbreviations
+
+   From Wikipedia, the free encyclopedia
+   Jump to navigation Jump to search
+   This article includes a list of references, related reading or external links, but its sources remain unclear because it lacks inline citations. Please help to improve this article by introducing more
+   precise citations. (October 2015) (Learn how and when to remove this template message)
+     * v
+     * t
+     * e
+
+   Medical abbreviations
+
+   0-9 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+     * Latin abbreviations
+     * Prescription abbreviations
+     * Acronyms in healthcare
+     * Abbreviations for medical organisations and personnel
+     * Abbreviations for diseases and disorders
+
+   Abbreviations are used very frequently in medicine. They boost efficiency as long as they are used intelligently. The advantages of brevity should be weighed against the possibilities of obfuscation
+   (making the communication harder for others to understand) and ambiguity (having more than one possible interpretation). Certain medical abbreviations are avoided to prevent mistakes, according to best
+   practices (and in some cases regulatory requirements); these are flagged in the list of abbreviations used in medical prescriptions.
+   [ ]
+
+Contents
+
+     * 1 Orthographic styling
+          + 1.1 Periods (stops)
+          + 1.2 Plurals
+          + 1.3 Possessives
+          + 1.4 Arrows
+     * 2 Pronunciation
+     * 3 Some common medical abbreviations
+     * 4 See also
+     * 5 References
+     * 6 External links
+
+Orthographic styling[edit]
+
+Periods (stops)[edit]
+
+   Periods (stops) are often used in styling abbreviations. Prevalent practice in medicine today is often to forego them as unnecessary.
+     * Example:
+          + Less common: The diagnosis was C.O.P.D.
+                [chronic obstructive pulmonary disease]
+          + More common: The diagnosis was COPD ^[1]
+
+Plurals[edit]
+
+   The prevalent way to represent plurals for medical acronyms and initialisms is simply to affix a lowercase s (no apostrophe).
+     * Example: one OCP, two OCPs  [oral contraceptive pills]. ^[2]
+
+Possessives[edit]
+
+   Possessive forms are not often needed, but can be formed using apostrophe + s. Often the writer can also recast the sentence to avoid it.
+     * Example:
+          + BP's effect on risk of MI is multifaceted.
+          + The effect of BP on MI risk is multifaceted.
+
+Arrows[edit]
+
+   Arrows may be used to indicate numerous conditions including elevation (^|), diminution (|v), and causation (->, <-).^[3]
+
+Pronunciation[edit]
+
+   Pronunciation follows convention outside the medical field, in which acronyms are generally pronounced as if they were a word (JAMA, SIDS), initialisms are generally pronounced as individual letters
+   (DNA, SSRI), and abbreviations generally use the expansion (soln. = "solution", sup. = "superior"). Abbreviations of weights and measures are pronounced using the expansion of the unit (mg = "milligram")
+   and chemical symbols using the chemical expansion (NaCl = "sodium chloride"). Some initialisms deriving from Latin may be pronounced either as letters (qid = "cue eye dee") or using the English expansion
+   (qid = "four times a day").^[citation needed]
+
+Some common medical abbreviations[edit]
+
+   Notation conventions
+     * This series of lists omits periods from acronyms and initialisms.
+     * It uses periods for certain abbreviations that traditionally often have them (mostly older Latin/Neo-Latin abbreviations). For example, both bid and b.i.d. may be found in the list.
+     * It generally uses the singular form of an abbreviation (not the plural) as the headword.
+     * This list uses significant capitalization for headwords (the abbreviations) and their expansions. ^[4]
+
+   EG abb EG full name Other
+   (ver change, need to know...etc.)
+   ABG arterial blood gas
+   ACE angiotensin-converting enzyme
+   ACTH adrenocorticotropic hormone
+   ADH antidiuretic hormone
+   AED automated external defibrillator
+   AIDS acquired immunodeficiency syndrome
+   ALP alkaline phosphatase
+   ALT alanine aminotransferase  old version is SGPT
+   ASA acetylsalicylic acid aspirin
+   AST aspartate aminotransferase  old version is SGOT
+   ATP adenosine triphosphate
+   BCG bacille Calmette-Guérin
+   bid 2 times a day
+   BIBPD brought in by police
+   BLS basic life support
+   BMR basal metabolic rate
+   BP blood pressure
+   BSA body surface area
+   BUN blood urea nitrogen
+   BR bedside rounds
+   BPD borderline personality disorder
+   C Celsius; centigrade; complement
+   Ca calcium
+   CAMP cyclic adenosine monophosphate
+   CBC complete blood count
+   cGy centigray
+   Ci curie
+   CK creatine kinase
+   Cl chloride; chlorine
+   cm centimeter
+   CNS central nervous system
+   CO2 carbon dioxide
+   COPD chronic obstructive pulmonary disease
+   CPK creatine phosphokinase
+   CPK-MB creatine phosphokinase muscle bandisoenzyme
+   CPR cardiopulmonary resuscitation
+   CSF cerebrospinal fluid
+   CT computed tomography
+   Cu cubic
+   D & C dilation and curettage
+   dL deciliter 1 dL = 100 mL
+   DNA deoxyribonucleic acid
+   DTP diphtheria-tetanus-pertussis(toxoids/vaccine)
+   D/W dextrose in water
+   ECF extracellular fluid
+   ECG electrocardiogram
+   EEG electroencephalogram
+   EGD esophagogastroduodenoscopy
+   ENT ear nose and throat
+   ERCP endoscopic retrograde cholangiopancreatography
+   ESR erythrocyte sedimentation rate
+   F Fahrenheit
+   FDA U.S. Food and Drug Administration
+   Ft foot; feet measure unit
+   FUO fever of unknown origin
+   G gram
+   GFR glomerular filtration rate
+   GI gastrointestinal
+   GVHD Graft-versus-host disease
+   G6PD glucose-6-phosphate dehydrogenase
+   GU genitourinary
+   Gy gray
+   H hour
+   Hb hemoglobin
+   HCl hydrochloric acid; hydrochloride
+   HCO3 bicarbonate
+   Hct hematocrit
+   Hg mercury
+   HIPAA Health Insurance Portability and Accountability Act
+   HIV human immunodeficiency virus
+   HLA human leukocyte antigen
+   HMG-CoA hydroxymethyl glutaryl coenzyme A
+   Hz hertz  cycles/second unit
+   hs at bedtime
+   ICF intracellular fluid
+   ICU intensive care unit
+   IgA etc. immunoglobin A
+   IL interleukin
+   IM intramuscular(ly)
+   INR international normalized ratio
+   IPPB intermittent positive pressure breathing
+   IU international unit
+   IV intravenous(ly)
+   IVU intravenous urography
+   K potassium
+   kcal kilocalorie mean food calorie
+   kg kilogram
+   L liter
+   lb pound
+   LDH lactic dehydrogenase
+   LDLc low-density lipoprotein cholesterol
+   M molar
+   m meter
+   MCH mean corpuscular hemoglobin
+   MCHC mean corpuscular hemoglobin concentration
+   mCi millicurie
+   MCV mean corpuscular volume
+   mEq Milliequivalent
+   Mg magnesium
+   mg milligram
+   MI myocardial infarction
+   MIC minimum inhibitory concentration
+   mIU milli-international unit
+   mL milliliter
+   mm millimeter
+   mmol millimole
+   mo month
+   mol wt molecular weight
+   mOsm Milliosmole
+   MRI magnetic resonance imaging
+   N nitrogen; normal unit to measure strength of solution
+   Na sodium
+   NaCl sodium chloride
+   ng nanogram  also name as millimicrogram
+   nm nanometer  also name as millimicron
+   nmol nanomole
+   Npo nothing by mouth
+   NSAID nonsteroidal anti-inflammatory drug
+   O2 oxygen
+   OTC over-the-counter  pharmaceuticals
+   oz ounce
+   P phosphorus; pressure
+   PAco2 alveolar carbon dioxide partial pressure
+   Paco2 arterial carbon dioxide partial pressure
+   PAo2 alveolar oxygen partial pressure
+   Pao2 arterial oxygen partial pressure
+   PAS periodic acid-Schiff
+   Pco2 carbon dioxide partial pressure or tension
+   PCR polymerase chain reaction
+   PET positron emission tomography
+   pg picogram micromicrogram
+   pH hydrogen ion concentration
+   PMN polymorphonuclear leukocyte
+   po orally
+   Po2 oxygen partial pressure  or tension
+   PPD purified protein derivative  tuberculin
+   ppm parts per million
+   prn as needed
+   PT prothrombin time
+   PTT partial thromboplastin time
+   q every
+   qid 4 times a day
+   RA rheumatoid arthritis
+   RBC red blood cell
+   RNA ribonucleic acid
+   Sao2 arterial oxygen saturation
+   SBE subacute bacterial endocarditis
+   sc subcutaneous(ly)
+   SI International System of Units
+   SIDS sudden infant death syndrome
+   SLE systemic lupus erythematosus
+   soln solution
+   sp species singular
+   spp species  plural
+   sp gr specific gravity
+   sq square
+   SSRI selective serotonin reuptake inhibitor
+   STS serologic test(s) for syphilis
+   T&A tonsillectomy and adenoidectomy
+   TB tuberculosis
+   TIBC total iron-binding capacity
+   tid 3 times a day
+   TPN total parenteral nutrition
+   URI upper respiratory infection
+   UTI urinary tract infection
+   WBC white blood cell
+   WHO World Health Organization
+   wt weight
+   µ micro-; micron
+   µCi microcurie
+   µg microgram
+   µL microliter
+   µm micrometer  also name micron
+   µmol micromole
+   µOsm micro-osmole
+   mµ millimicron  also name nanometer
+
+See also[edit]
+
+     * List of abbreviations used in medical prescriptions
+     * List of medical roots, suffixes and prefixes
+     * Medical dictionary
+     * Medical slang
+     * Abbreviation#Style conventions in English
+     * Acronym and initialism#Orthographic styling
+
+References[edit]
+
+    1. ^ Vera Pyle's Current Medical Terminology, 11th Ed., Health Professions Institute, Modesto, California, 2007, p. 174
+    2. ^ The AAMT Book of Style for Medical Transcription, 2nd Ed., Peg Hughes, CMT, American Association for Medical Transcription, ISBN 0-935229-38-8, copyright 2002
+    3. ^ http://stedmansonline.com/webFiles/Dict-Stedmans28/APP10.pdf
+    4. ^ The Merck Manual of Diagnosis and Therapy, 28th Ed., page xi, Merck Research Laboratories, Whitehouse Station, NJ, 2006
+
+     * Movshovitz-Attias, Dana; Cohen, William W. (2012). Alignment-HMM-based Extraction of Abbreviations from Biomedical Text. Montreal, Canada: NAACL.
+
+   [1].
+
+     Davis, Neil M. (2014). Medical Abbreviations: 32,000 Conveniences at the Expense of Communication and Safety (15th ed.). Warminster, PA, USA: Neil M Davis Associates. ISBN 978-0-931431-15-9.
+   Available online (by subscription) at MedAbbrev.com.
+
+     Jablonski, Stanley (2008). Jablonski's Dictionary of Medical Acronyms and Abbreviations with CD-ROM (6th ed.). Philadelphia: Saunders. ISBN 978-1-4160-5899-1.
+
+     Sloane, Sheila B. (1997). Medical Abbreviations & Eponyms (2nd ed.). Philadelphia: Saunders. ISBN 978-0-7216-7088-1.
+
+External links[edit]
+
+     * Medical Abbreviations EN English Medical Abbreviations for Android
+     * JD.MD, Inc. online Medical & Dental Abbreviations Glossary
+     * Acronyms for Medical & Dental professional organizations
+     * Medical Abbreviations for iPhone
+     * Medical abbreviations on mediLexicon
+     * Medical acronyms and abbreviations on allacronyms.com
+     * Over 20,000 medical abbreviations sorted into specialist categories
+     * Medical abbreviations in various categories such as Physiology, Oncology, Laboratory and more
+     * All List of Medical Abbreviations and full forms directory
+
+     * v
+     * t
+     * e
+
+   Medical abbreviations
+
+   0-9 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+     * Latin abbreviations
+     * Prescription abbreviations
+     * Acronyms in healthcare
+     * Abbreviations for medical organisations and personnel
+     * Abbreviations for diseases and disorders
+
+     * v
+     * t
+     * e
+
+   Basic medical terms used to describe disease conditions
+
+   Medical sign
+   Symptom
+   Syndrome
+
+   Medical diagnosis
+   Differential diagnosis
+   Prognosis
+
+   Acute
+   Chronic
+   Cure/Remission
+
+   Disease
+   Eponymous disease
+   Acronym or abbreviation
+
+   Retrieved from "https://en.wikipedia.org/w/index.php?title=List_of_medical_abbreviations&oldid=890954223"
+
+   Categories:
+     * Lists of medical abbreviations
+
+   Hidden categories:
+     * Articles lacking in-text citations from October 2015
+     * All articles lacking in-text citations
+     * All articles with unsourced statements
+     * Articles with unsourced statements from October 2015
+
+Navigation menu
+
+Personal tools
+
+     * Not logged in
+     * Talk
+     * Contributions
+     * Create account
+     * Log in
+
+Namespaces
+
+     * Article
+     * Talk
+
+   [ ]
+
+Variants
+
+Views
+
+     * Read
+     * Edit
+     * View history
+
+   [ ]
+
+More
+
+Search
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Featured content
+     * Current events
+     * Random article
+     * Donate to Wikipedia
+     * Wikipedia store
+
+Interaction
+
+     * Help
+     * About Wikipedia
+     * Community portal
+     * Recent changes
+     * Contact page
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Wikidata item
+     * Cite this page
+
+Print/export
+
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * a+l+e+r+b+y+tm
+     * Deutsch
+     * Español
+     * Français
+     * Galego
+     * Polski
+     * Româna
+     * Russkij
+     * Simple English
+
+   Edit links
+
+     * This page was last edited on 4 April 2019, at 17:17 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Developers
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

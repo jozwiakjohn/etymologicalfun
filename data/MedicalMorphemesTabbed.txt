@@ -1,0 +1,510 @@
+"a-, an-" @@ "not, without (alpha privative)" @@ "Greek _-/__- (a-/an-), not, without" @@ "analgesic, apathy"
+ab- @@ from; away from @@ Latin @@ abduction
+abdomin- @@ of or relating to the abdomen @@ "Latin abd_men, abdomen, fat around the belly" @@ "abdomen, abdominal"
+-ac @@ pertaining to; one afflicted with @@ Greek -____ (-akós) @@ "cardiac, hydrophobiac"
+acanth- @@ thorn or spine @@ "Greek ______ (ákantha), thorn" @@ "acanthion, acanthocyte, acanthoma, acanthulus"
+acou-[1] @@ of or relating to hearing @@ "Greek _______ (akoúein), __________ (akoustikós), of or for hearing" @@ "acoumeter, acoustician, hyperacusis"
+acr- @@ "extremity, topmost" @@ "Greek _____ (ákron), highest or farthest point" @@ "acrocrany, acromegaly, acroosteolysis, acroposthia"
+-acusis @@ hearing @@ "Greek __________ (akoustikós), of or for hearing" @@ paracusis
+-ad @@ "toward, in the direction of" @@ "Latin ad, toward, to" @@ "dorsad, ventrad"
+ad- @@ "at, increase, on, toward" @@ "Latin ad-, to" @@ adduction
+aden- @@ of or relating to a gland @@ "Greek ____, ____-, (ad_n, adén-), an acorn; a gland" @@ "adenocarcinoma, adenology, adenotome, adenotyphus"
+adip- @@ of or relating to fat or fatty tissue @@ "Latin (adeps, adip-), fat" @@ adipocyte
+adren- @@ of or relating to the adrenal glands @@ "Latin ad + r_n_s, kidneys" @@ adrenal artery
+-aemia (BrE) @@ blood condition @@ "Greek _______ (anaimía, without blood" @@ anaemia
+aer(o)- @@ "air, gas" @@ "Greek ___, _____ (a_r, aéros)" @@ aerosinusitis
+aesthesi- (BrE) @@ sensation @@ Greek ________ (aísth_sis) @@ anaesthesia
+-al @@ pertaining to @@ Latin -alis @@ "abdominal, femoral"
+alb- @@ denoting a white or pale color @@ "Latin albus, white" @@ "albino, tunica albica"
+alge(si)- @@ pain @@ Greek _____ (álgos) @@ analgesic
+"-algia, alg(i)o-" @@ pain @@ Greek @@ myalgia
+all- @@ "denoting something as different, or as an addition" @@ "Greek _____ (állos), another, other" @@ "alloantigen, allopathy"
+ambi- @@ denoting something as positioned on both sides; describing both of two @@ "Latin (ambi-, ambo), both, on both sides" @@ ambidextrous
+amnio- @@ Pertaining to the membranous fetal sac (amnion) @@ Greek ______ (ámnion) @@ amniocentesis
+"amph(i)-," @@ on both sides @@ Greek ____ (amphí) @@ "amphicrania, amphismela, amphomycin"
+amylo- @@ "starchy, carbohydrate-related" @@ Latin amylum (starch) @@ "amylase, amylophagia"
+an- @@ "not, without (alpha privative)" @@ Greek @@ analgesia
+ana- @@ "back, again, up" @@ Greek ___- (ana-) @@ anaplasia
+an- @@ anus @@ Latin @@ anal
+andr- @@ pertaining to a man @@ "Greek ____, ____- (an_r, andr-), male" @@ "android, andrology, androgen"
+angi- @@ blood vessel @@ Greek _______ (angeîon) @@ "angiogram, angioplasty"
+aniso- @@ describing something as unequal @@ "Greek ______ (án_sos), unequal" @@ "anisocytosis, anisotropic"
+"ankyl-, ancyl-" @@ denoting something as crooked or bent @@ "Greek _______ (ankúlos), crooked, curved" @@ ankylosis
+ante- @@ describing something as positioned in front of another thing @@ "Latin (_nt_), before, in front of" @@ antepartum
+anti- @@ describing something as 'against' or 'opposed to' another @@ "Greek ____ (anti), against" @@ "antibody, antipsychotic"
+apo- @@ "away, separated from, derived from" @@ Greek _π_ (apó) @@ apoptosis
+archi- @@ "first, primitive" @@ Greek ____- (arkhi-) @@ archinephron
+arsen(o)- @@ of or pertaining to a male; masculine @@ Greek (_________ (arsenikós) @@ arsenoblast
+arteri(o)- @@ of or pertaining to an artery @@ "Greek _______ (art_ría), a wind-pipe, artery (used distinctly versus a vein)" @@ "arteriole, artery"
+arthr- @@ "of or pertaining to the joints, limbs" @@ "Greek ______ (árthron), a joint, limb" @@ arthritis
+articul- @@ joint @@ Latin articulus @@ Articulation
+-ary @@ pertaining to @@ Latin -arius @@ "biliary tract, coronary"
+-ase @@ enzyme @@ "from Greek _________ (___- (dia-, part, apart) + ______ (stásis, stand)), division" @@ Lactase
+-asthenia @@ weakness @@ Greek ________ (asthéneia) @@ Myasthenia gravis
+atel(o)- @@ imperfect or incomplete development @@ "Greek ______ (atel_s), without end, incomplete" @@ atelocardia
+ather- @@ "fatty deposit, soft gruel-like deposit" @@ _____ (athár_) @@ Atherosclerosis
+-ation @@ process @@ Latin @@ medication
+atri- @@ an atrium (esp. heart atrium) @@ Latin @@ atrioventricular
+aur- @@ of or pertaining to the ear @@ "Latin (auris), the ear" @@ Aural
+aut- @@ self @@ "Greek _____, ____- (autós, auto-)" @@ Autoimmune
+aux(o)- @@ increase; growth @@ "Greek ______, ____ (auxán_, aúx_)" @@ "Auxocardia: enlargement of the heart, auxology"
+axill- @@ of or pertaining to the armpit (uncommon as a prefix) @@ "Latin (axilla), armpit" @@ Axilla
+azo(to)- @@ nitrogenous compound @@ "French azote, nitrogen; from Greek ________ (áz_tikós) _- (a-, no, without) + ___ (z__, life)), mephitic air" @@ azothermia: raised temperature due to nitrogenous substances in blood
+bacillus @@ rod-shaped @@ "Latin baculus, stick" @@ Bacillus anthracis
+bacteri- @@ Pertaining to bacteria @@ "Latin (bacterium; Greek _________ (bakt_rion), small staff" @@ "bacteriophage, bactericide"
+balan- @@ of the glans penis or glans clitoridis @@ "Greek _______ (bálanos), acorn, glans" @@ balanitis
+bas- @@ of or pertaining to base @@ "Greek _____ ({grc-transl|_____}}), foundation, base" @@ basolateral
+bi- @@ "twice, double" @@ Latin bi- @@ binary vision
+bio- @@ life @@ Greek ____ (bíos) @@ biology
+blast- @@ germ or bud @@ Greek _______ (blastós) @@ blastomere
+blephar(o)- @@ of or pertaining to the eyelid @@ "Greek ________ (blépharon), eyelid" @@ blepharoplasty
+brachi(o)- @@ of or relating to the arm @@ "Latin (bracchium), from Greek _______ (brakhí_n), arm" @@ brachium of inferior colliculus
+brachy- @@ Indicating 'short' or less commonly 'little' @@ "Greek ______ (brakhús), short, little, shallow" @@ brachycephalic
+brady- @@ 'slow' @@ "Greek ______ (bradús), slow" @@ bradycardia
+bronch(i)- @@ of or relating to the bronchus @@ "Latin (bronchus); Greek _______ (brónkhos), windpipe" @@ "bronchitis, bronchiolitis obliterans"
+bucc(o)- @@ of or pertaining to the cheek @@ "Latin bucca, cheek" @@ buccolabial
+burs(o)- @@ bursa (fluid sac between the bones) @@ "Latin (bursa), purse; Greek _____ (búrsa), hide, wine-skin" @@ "bursa, bursitis"
+capill- @@ of or pertaining to hair @@ "Latin capillus, hair" @@ capillus
+capit- @@ pertaining to the head as a whole @@ "Latin caput, capit-, the head" @@ capitation
+carcin- @@ cancer @@ "Greek ________ (karkínos), crab" @@ carcinoma
+cardi- @@ of or pertaining to the heart @@ "Greek ______ (kardía), heart" @@ cardiology
+carp- @@ of or pertaining to the wrist @@ "Latin (carpus) < Greek ___π__ (karpós), wrist; NOTE: This root should not be confused with the mirror root carp(o)- meaning fruit." @@ carpopedal spasm
+cata- @@ "down, under" @@ Greek ____ (katá) @@ "cataract, catabolism"
+-cele @@ "pouching, hernia" @@ Greek ____ (k_l_) @@ "Hydrocele, Varicocele"
+-centesis @@ surgical puncture for aspiration @@ Greek ________ (ként_sis) @@ amniocentesis
+cephal(o)- @@ of or pertaining to the head (as a whole) @@ "Greek ______ (kephal_), the head" @@ "cephalalgy, hydrocephalus"
+cerat(o)- @@ of or pertaining to the cornu; a horn @@ "Greek _____, _____- (kéras, kerat-), a horn" @@ ceratoid
+cerebell(o)- @@ of or pertaining to the cerebellum @@ "Latin cerebellum, little brain" @@ cerebellum
+cerebr- @@ of or pertaining to the brain @@ "Latin cerebrum, brain" @@ cerebrology
+cervic- @@ of or pertaining to the neck or the cervix @@ "Latin cervix, cerv_c-), neck, cervix" @@ "cervicodorsal, cervical vertebrae"
+cheil- @@ of or pertaining to the lips @@ "Greek ______ (kheîlos), lip, mouth, beak" @@ angular cheilitis
+chem- @@ "chemistry, drug" @@ Greek ______ (kh_meía) @@ chemotherapy
+"chir-, cheir-" @@ of or pertaining to the hand @@ "Greek ____, _____- (kheír, kheiro-), hand" @@ chiropractor
+chlor- @@ denoting a green color @@ "Greek ______ (khl_rós), green, yellow-green" @@ chlorophyll
+chol(e)- @@ of or pertaining to bile @@ "Greek ____ (khol_), bile" @@ "cholaemia (UK) / cholemia (US), cholecystitis"
+cholecyst(o)- @@ of or pertaining to the gallbladder @@ "Greek __________ (khol_kústis), gallbladder < ____ (khol_), bile, gall + ______ (kústis), bladder" @@ cholecystectomy
+chondr(i)o- @@ "cartilage, gristle, granule, granular" @@ Greek _______ (grc) @@ chondrocalcinosis
+chrom(ato)- @@ color @@ Greek _____ (khrôma) @@ hemochromatosis
+"-cidal, -cide" @@ "killing, destroying" @@ "Latin -c_da, cutter, killer" @@ bacteriocidal
+cili- @@ "of or pertaining to the cilia, the eyelashes; eyelids" @@ "Latin cilium, eyelash; eyelid" @@ ciliary
+circum- @@ denoting something as 'around' another @@ "Latin circum, around" @@ circumcision
+cis- @@ on this side @@ Latin cis @@ cisgender
+clast @@ break @@ "Greek _______ (klastós), broken" @@ osteoclast
+clostr- @@ spindle @@ "Greek _______ (kl_st_r), spindle, thread" @@ Clostridium
+co- @@ "with, together, in association" @@ Latin co- @@ coenzymes
+coccus @@ "round, spherical" @@ "Greek ______ (kókkos), berry, seed" @@ Streptococcus
+"col-, colo-, colono-" @@ colon @@ Greek _____ (kólon) @@ colonoscopy
+colp(o)- @@ of or pertaining to the vagina @@ "Greek ___π__ (kólpos), bosom, womb; hollow, depth" @@ colposcopy
+com- @@ "with, together" @@ Latin cum @@ 
+contra @@ against @@ Latin contr_ @@ contraindication
+cor- @@ "with, together" @@ Latin cor- @@ corrective
+cor- @@ of or pertaining to the eye's pupil @@ "Greek ____ (kór_), girl, doll; pupil of the eye" @@ corectomy
+cord(i)- @@ of or pertaining to the heart (uncommon as a prefix) @@ "Latin cor, heart" @@ commotio cordis
+cornu- @@ applied to describing processes and parts of the body as likened or similar to horns @@ "Latin corn_, horn" @@ greater cornu
+coron(o)- @@ pertaining to the heart @@ Latin cor_na @@ coronary heart disease
+cortic(o)- @@ "cortex, outer region" @@ "Latin cortex, bark of a tree" @@ corticosteroid
+cost- @@ of or pertaining to the ribs @@ "Latin costa, rib" @@ costochondral
+cox- @@ "of or relating to the hip, haunch, or hip-joint" @@ "Latin coxa, hip" @@ coxopodite
+crani(o)- @@ belonging or relating to the cranium @@ "Latin cranium, from Greek _______ (kr_níon), cranium, skull, bones enclosing the brain" @@ craniology
+"-crine, crin(o)" @@ to secrete @@ "Greek _____ (krín_), separate, divide, discern" @@ endocrine
+cry(o)- @@ cold @@ "Greek _____ (krúos), cold, frost" @@ cryoablation
+cutane- @@ skin @@ Latin cutis @@ subcutaneous
+cyan(o)- @@ having a blue color @@ "Greek ______, _______ (kúanos, kuáneos, blue, of the color blue" @@ cyanopsia
+cycl- @@ "circle, cycle" @@ Greek ______ (kúklos) @@ cyclosis
+cyph(o)- @@ denotes something as bent (uncommon as a prefix) @@ "Greek _____ (kuphós), bent, hunchback" @@ cyphosis
+"cyst(o)-, cyst(i)-" @@ of or pertaining to the urinary bladder @@ "Greek ______ (kústis), bladder, cyst" @@ cystotomy
+"cyt(o)-, -cyte" @@ cell @@ "Greek _____ (kútos), a hollow, vessel" @@ "cytokine, leukocyte"
+dacry(o)- @@ of or pertaining to tears @@ "Greek _____, tear" @@ "dacryoadenitis, dacryocystitis"
+-dactyl(o)- @@ "of or pertaining to a finger, toe" @@ "Greek ________ (dáktylos), finger, toe" @@ "dactylology, polydactyly"
+de- @@ "from, down, or away from" @@ Latin de- @@ dehydrate
+dent- @@ of or pertaining to teeth @@ "Latin (dens, dentis), tooth" @@ dentist
+"dermat(o)-, derm(o)-" @@ of or pertaining to the skin @@ "Greek _____, ________ (dérma, dérmat-), skin, human skin" @@ "dermatology, epidermis, hypodermic, xeroderma"
+-desis @@ binding @@ Greek _____ (désis) @@ arthrodesis
+dextr(o)- @@ "right, on the right side" @@ Latin dexter @@ dextrocardia
+di- @@ two @@ Greek __- @@ diplopia
+di- @@ "apart, separation" @@ Latin @@ "dilation, distal"
+dia- @@ "through, during, across" @@ "Greek ___ (diá), through, during, across" @@ dialysis
+dif- @@ "apart, separation" @@ Latin @@ different
+digit- @@ of or pertaining to the finger [rare as a root] @@ "Latin (digitus), finger, toe" @@ digit
+diplo- @@ twofold @@ Greek __π____ (diplóos) @@ "diploid, diplosis"
+-dipsia @@ (condition of) thirst @@ Greek ____ (dípsa) @@ "dipsomania, hydroadipsia, oligodipsia, polydipsia"
+dis- @@ "separation, taking apart" @@ Latin dis- @@ dissection
+"dors(o)-, dors(i)-" @@ of or pertaining to the back @@ "Latin (dorsum), back" @@ "dorsal, dorsocephalad"
+dromo- @@ "running, conduction, course" @@ Greek ______ (drómos) @@ "dromotropic, syndrome"
+duodeno- @@ twelve @@ Latin duodeni @@ "duodenal atresia, duodenum"
+dura- @@ hard @@  @@ dura mater
+dynam(o)- @@ "force, energy, power" @@ Greek _______ (dúnamis) @@ hand strength dynamometer
+-dynia @@ pain @@  @@ vulvodynia
+dys- @@ "bad, difficult, defective, abnormal" @@ Greek ___- (dus-) @@ "dysentery, dysphagia, dysphasia"
+-eal @@ pertaining to @@ Latin @@ "adenohypophyseal, corneal, esophageal, perineal"
+ec- @@ "out, away" @@ Greek __- (ek-) @@ "ectopia, ectopic pregnancy"
+ect(o)- @@ "outer, outside" @@ Greek _____ (ektós) @@ "ectoblast, ectoderm"
+"-ectasia, -ectasis" @@ "expansion, dilation" @@ Greek _______ (éktasis) @@ "bronchiectasis, telangiectasia"
+-ectomy @@ "denotes a surgical operation or removal of a body part; resection, excision" @@ "Greek ______ (ektom_), excision" @@ mastectomy
+-emesis @@ vomiting condition @@ Greek ______ (émesis) @@ hematemesis
+-emia @@ blood condition (Am. Engl.) @@ "Greek ____, ""blood""" @@ anemia
+encephal(o)- @@ of or pertaining to the brain; see also cerebro- @@ "Greek _________ (enképhalos), the brain" @@ encephalogram
+endo- @@ denotes something as inside or within @@ "____- (endo-), inside, internal" @@ "endocrinology, endospore"
+eosin(o)- @@ having a red color @@ "Greek Eos, the Greek word for ""dawn"" and the name of the Greek goddess of the dawn" @@ eosinophil granulocyte
+enter(o)- @@ of or pertaining to the intestine @@ "Greek _______ (énteron), intestine" @@ gastroenterology
+epi- @@ "on, upon" @@ "Greek _π_- (epi-), before, upon, on, outside, outside of" @@ "epicardium, epidermis, epidural, episclera, epistaxis"
+episi(o)- @@ "of or pertaining to the pubic region, the loins" @@ "Greek _π_____- (epísion), the pubic area, loins; vulva" @@ episiotomy
+erythr(o)- @@ having a red color @@ "Greek _______ (erythrós), red" @@ erythrocyte
+"-esophageal, -esophago-" @@ gullet (AmE) @@ Greek _________ (oisophágos) @@ esophagus
+esthesio- @@ sensation (AmE) @@ Greek ________ (aisth_sis) @@ "esthesioneuroblastoma, esthesia"
+eu- @@ "true, good, well, new" @@ __ (eû) @@ eukaryote
+ex- @@ "out of, away from" @@ Latin @@ excision
+exo- @@ "denotes something as ""outside"" another" @@ "Greek ___- (exo-), outside of, external" @@ "exophthalmos, exoskeleton"
+extra- @@ outside @@ Latin @@ extradural hematoma
+faci- @@ of or pertaining to the face @@ "Latin faci_s, the face, countenance" @@ facioplegic
+fibr- @@ fiber @@ "Latin fibra, fiber, filament, entrails[2]" @@ "fibril, fibrin, fibrinous pericarditis, fibroblast"
+fil- @@ "fine, hair-like" @@ "Latin (filum), thread" @@ "filament, filum terminale"
+foramen @@ "hole, opening, or aperture, particularly in bone" @@ Latin @@ foramen magnum
+-form @@ "used to form adjectives indicating ""having the form of""" @@ "Latin (forma), form, shape" @@ "cruciform, cuneiform, falciform"
+fore- @@ before or ahead @@  @@ foregut
+fossa @@ a hollow or depressed area; a trench or channel @@ "Latin (fossa), ditch, pit" @@ fossa ovalis
+front- @@ of or pertaining to the forehead @@ "Latin (fr_ns, front-), the forehead" @@ frontonasal
+galact(o)- @@ milk @@ "Greek ____, ______-" @@ "galactorrhea, galaxy"
+gastr(o)- @@ of or pertaining to the stomach @@ "Greek ______ (gast_r), _____-, stomach, belly" @@ gastric bypass
+-gen @@ "*born in, from" @@ "Greek -_____ (-gen_s), from ___-_____ (gen-náein), to be born" @@ *endogen
+-genic @@ formative; pertaining to producing @@ Greek @@ cardiogenic shock
+genu- @@ of or pertaining to the knee @@ "Latin (gen_), knee" @@ genu valgum
+-geusia @@ taste @@ Greek ______ (geusis) @@ "ageusia, dysgeusia, hypergeusia, hypogeusia, parageusia"
+gingiv- @@ of or pertaining to the gums @@ "Latin ging_va, gum" @@ gingivitis
+glauc(o)- @@ Having a grey or bluish-grey colour @@ "Greek _______ (glaukos), grey, bluish-grey" @@ glaucoma
+"gloss(o)-, glott(o)-" @@ of or pertaining to the tongue @@ "Greek ______, ______ (gl_ssa, gl_tta), tongue" @@ glossology
+gluco- @@ sweet @@ "Greek ______, sweet" @@ glucocorticoid
+glyc(o)- @@ sugar @@ Greek @@ glycolysis
+gnath(o)- @@ of or pertaining to the jaw @@ "Greek ______ (gnáthos), jaw" @@ gnathodynamometer
+-gnosis @@ knowledge @@ Greek @@ "diagnosis, prognosis"
+gon(o)- @@ "seed, semen; reproductive" @@ Greek _____ @@ gonorrhea
+"-gram, -gramme" @@ record or picture @@ Greek ______ (gramma) @@ angiogram
+-graph @@ instrument used to record data or picture @@ "Greek -______ (-graphía), written, drawn, graphic interpretation" @@ electrocardiograph
+-graphy @@ process of recording @@ Greek @@ angiography
+"gyno-, gynaeco- (BrE), gyneco- (AmE)" @@ woman @@ "Greek ____, ______-" @@ gynecomastia
+halluc- @@ to wander in mind @@ "Classical Latin, to wander in mind" @@ hallucinosis
+"hemat-, haemato- (haem-, hem-)" @@ of or pertaining to blood @@ "Latin hæma, from Greek ____, _____- (haima, haimat-), ""blood""" @@ "hematology, older form haematology"
+hema- or hemo- @@ blood (AmE) @@ Greek @@ "hemal, hemoglobin"
+hemangi or hemangio- @@ blood vessels @@  @@ hemangioma
+hemi- @@ one-half @@ "Greek ___- (h_mi-), ""half""" @@ cerebral hemisphere
+hepat- (hepatic-) @@ of or pertaining to the liver @@ "Greek _π__, _π___- (h_par, h_pato-), the liver" @@ "hepatology, hepatitis"
+heter(o)- @@ "denotes something as ""the other"" (of two), as an addition, or different" @@ "Greek ______ (héteros), the other (of two), another; different" @@ heterogeneous
+hidr(o)- @@ sweat @@ Greek _____- @@ hyperhidrosis
+"hist(o)-, histio-" @@ tissue @@ Greek _____ @@ histology
+home(o)- @@ similar @@ Greek ______ (homoios) @@ homeopathy
+hom(o)- @@ "denotes something as ""the same"" as another or common" @@ "Greek ___- (homo-), the same, common" @@ "homosexuality, homozygote"
+humer(o)- @@ of or pertaining to the shoulder (or [rarely] the upper arm) @@ "Latin (umerus), shoulder" @@ humerus
+hydr(o)- @@ water @@ Greek ____ @@ hydrophobe
+hyper- @@ extreme or beyond normal @@ "Greek _π__ (hyper), over, above; beyond, to the extreme" @@ "hypertension, hypertrichosis"
+hyp(o)- @@ below normal @@ "Greek _π(_)- (hypo-), below, under" @@ "hypovolemia, hypoxia"
+hyster(o)- @@ of or pertaining to the womb or the uterus @@ "Greek ______ (hystéra), womb" @@ "hysterectomy, hysteria"
+-i-asis @@ "condition, formation, or presence of" @@ Greek -_____ @@ mydriasis
+iatr(o)- @@ of or pertaining to medicine or a physician (uncommon as a prefix but common as a suffix; see -iatry) @@ "Greek ______ (i_trós), healer, physician" @@ "iatrochemistry, iatrogenesis"
+-iatry @@ denotes a field in medicine emphasizing a certain body component @@ "Greek ______ (i_trós), healer, physician" @@ "podiatry, psychiatry"
+-ic @@ pertaining to @@ Greek -____ (-ikos) @@ hepatic artery
+-icle @@ small @@ Latin @@ ovarian follicle
+-ics @@ "organized knowledge, treatment" @@ Latin -ica < Greek < -___ @@ obstetrics
+idio- @@ "self, one's own" @@ "Greek _____ (idios), ""one's own""" @@ idiopathic
+ileo- @@ ileum @@ Greek _____ @@ ileocecal valve
+infra- @@ below @@ Latin @@ infrahyoid muscles
+inter- @@ "between, among" @@ Latin @@ interarticular ligament
+intra- @@ within @@ Latin @@ intramural
+ipsi- @@ same @@ Latin @@ ipsilateral
+irid(o)- @@ of or pertaining to the iris @@ Greek ____ @@ iridectomy
+isch- @@ restriction @@ Greek ____ @@ ischemia
+ischio- @@ "of or pertaining to the ischium, the hip-joint" @@ "Greek ______ (ischión), hip-joint, ischium" @@ ischioanal fossa
+-ism @@ "condition, disease" @@  @@ dwarfism
+-ismus @@ "spasm, contraction" @@ Greek -_____ @@ hemiballismus
+iso- @@ denoting something as being equal @@ "Greek ____ (ísos), equal" @@ isotonic
+-ist @@ one who specializes in @@ Greek _____ (istes) @@ pathologist
+-ite @@ "the nature of, resembling" @@ Greek ____ @@ hermaphrodite
+-itis @@ inflammation @@  @@ tonsillitis
+-ium @@ "structure, tissue" @@  @@ pericardium
+juxta (iuxta) @@ "Near to, alongside or next to" @@ Latin @@ juxtaglomerular apparatus
+kal- @@ potassium @@  @@ hyperkalemia
+kary-[3] @@ nucleus @@ "Greek ______ (káruon), ""nut""" @@ eukaryote
+kerat-[4] @@ cornea (eye or skin) @@ "Greek _____ (kéras), ""horn""" @@ keratoscope
+kine-[5] @@ movement @@ Greek _____ @@ "akinetopsia, kinesthesia"
+koil-[6] @@ hollow @@ Greek ______ (koîlos) @@ koilocyte
+kyph-[7] @@ humped @@ Greek _____ (kuphós) @@ kyphoscoliosis
+labi- @@ of or pertaining to the lip @@ "Latin (labium), lip" @@ labiodental
+lacrim(o)- @@ tear @@ Latin @@ Lacrimal canaliculi
+"lact(i)-, lact(o)" @@ milk @@ Latin @@ lactation
+lapar(o)- @@ "of or pertaining to the abdominal wall, flank" @@ "Greek __π___ (lapár_), flank" @@ laparotomy
+laryng(o)- @@ "of or pertaining to the larynx, the lower throat cavity where the voice box is" @@ "Greek ______, ______- (lárynx, laryng-), throat, gullet" @@ larynx
+latero- @@ lateral @@ Latin @@ lateral pectoral nerve
+lei(o)- @@ smooth @@ Greek _____ @@ leiomyoma
+"-lepsis, -lepsy" @@ "attack, seizure" @@ Greek _____ @@ "epilepsy, narcolepsy"
+lept(o)- @@ "light, slender" @@ Greek __π___ (leptos) @@ leptomeningeal
+"leuc(o)-, leuk(o)-" @@ denoting a white color @@ "Greek ______ (leukos), white, bright" @@ leukocyte
+"lingu(a)-, lingu(o)-" @@ of or pertaining to the tongue @@ "Latin (lingua), tongue" @@ linguistics
+lip(o)- @@ fat @@ Greek __π__ (lipos) @@ liposuction
+liss(os)- @@ smooth @@ Greek ______ (lissos) @@ lissencephaly
+lith(o)- @@ "stone, calculus" @@ Greek _____ (lithos) @@ lithotripsy
+log(o)- @@ speech @@ Greek _____ (logos) @@ "dialog, catalog, logos"
+-logist @@ denotes someone who studies a certain field (the field of _____-logy); a specialist; one who treats @@ "Greek ________ (logist_s), studier, practitioner" @@ "oncologist, pathologist"
+-logy @@ denotes the academic study or practice of a certain field; the study of @@ Greek ___o_ (logos) study @@ "hematology, urology"
+"lumb(o)-, lumb(a)-" @@ of or relating to the part of the trunk between the lowest ribs and the pelvis. @@ Latin (lumbus or lumbaris) loin @@ lumbar vertebrae
+lymph(o)- @@ lymph @@ Latin lympha - water @@ lymphedema
+"lys(o)-, -lytic" @@ dissolution @@ Greek @@ lysosome
+-lysis @@ "destruction, separation" @@ Greek _____ @@ paralysis
+macr(o)- @@ "large, long" @@ Greek ______ @@ macrophage
+-malacia @@ softening @@ Greek _______ @@ osteomalacia
+mamm(o)- @@ of or pertaining to the breast @@ "Latin (mamma), breast; udder" @@ mammogram
+mammill(o)- @@ of or pertaining to the nipple @@ "Latin mammilla, nipple" @@ "mammillaplasty, mammillitis"
+manu- @@ of or pertaining to the hand @@ "Latin (manus), hand" @@ manufacture
+mast(o)- @@ of or pertaining to the breast @@ "Greek ______ (mastós), breast, women's breast; man's pectoral muscle" @@ mastectomy
+"meg(a)-, megal(o)-, -megaly" @@ "enlargement, million" @@ Greek _____ @@ "splenomegaly, megameter"
+melan(o)- @@ having a black color @@ "Greek _____, ______- (melas, melano-), black; dark" @@ melanin
+melos @@ extremity @@ Greek _____ @@ erythromelalgia
+mening(o)- @@ membrane @@ "Greek ______, ______" @@ meningitis
+men- @@ "month, menstrual cycle" @@ "Greek ___ (m_n), month" @@ "menopause, menorrhagia"
+mer- @@ part @@ "Greek _____ (meros), part" @@ "merocrine, meroblastic"
+mes- @@ middle @@ "Greek _____ (mesos), ""middle""" @@ mesoderm
+"met, meta-" @@ "after, beside, beyond or change" @@ Greek ____ @@ "metacarpal, metacarpus, metacromion, metanephros, metatheria"
+-meter @@ instrument used to measure or count @@ Greek ______ @@ "sphygmomanometer, thermometer"
+-metry @@ process of measuring @@ Greek -______ @@ optometry
+metr- @@ pertaining to conditions or instruments of the uterus @@ "Greek _____ (m_tr_), womb, uterus" @@ metrorrhagia
+micr- @@ "millionth; denoting something as small, relating to smallness" @@ "Greek ______ (mikros), small" @@ microscope
+milli- @@ thousandth @@ "Latin mille, thousand" @@ milliliter
+mon- @@ single @@ Greek _____ (monos) @@ infectious mononucleosis
+morph- @@ "form, shape" @@ Greek _____ (morph_) @@ morphology
+muscul(o)- @@ muscle @@ Latin @@ musculoskeletal system
+my(o)- @@ of or relating to muscle @@ "Greek ___, __- (mys, my-), muscle, mouse, mussel" @@ myoblast
+myc(o)- @@ fungus @@ "Greek _____, _____-" @@ onychomycosis
+myel(o)- @@ of or relating to bone marrow or the spinal cord @@ "Greek ______ (myelon), marrow, bone-marrow" @@ "myelin sheath, myeloblast"
+myl(o)- @@ of or relating to molar teeth or the lower jaw @@ Greek (myle) @@ mylohyoid nerve
+myri- @@ ten thousand @@ "Greek ______ (m_rioi), myriad" @@ myriad
+myring(o)- @@ eardrum @@ Latin myringa @@ myringotomy
+myx(o)- @@ mucus @@ Greek ____ @@ myxoma
+nan(o)- @@ "dwarf, small" @@ Greek _____ @@ "nanogram, nanosecond"
+narc(o)- @@ "numb, sleep" @@ Greek _____ @@ narcolepsy
+nas(o)- @@ of or pertaining to the nose @@ "Latin (n_sum), nose" @@ nasal
+necr(o)- @@ death @@ Greek ______ @@ "necrosis, necrotizing fasciitis"
+neo- @@ new @@ Greek ____ @@ neoplasm
+nephr(o)- @@ of or pertaining to the kidney @@ "Greek ______ (nephrós), kidney" @@ nephrology
+nerv- @@ of or pertaining to nerves and the nervous system (uncommon as a root: neuro- mostly always used) @@ "Latin nervus, tendon, nerve; cognate with the Greek ______ (neuron)" @@ "nerve, nervous system"
+"neur(i)-, neur(o)-" @@ of or pertaining to nerves and the nervous system @@ "Greek ______ (neuron), tendon, sinew, nerve" @@ neurofibromatosis
+noci- @@ "pain, injury, hurt" @@ Latin noceo @@ nociception
+normo- @@ normal @@ Latin @@ normocapnia
+ocul(o)- @@ of or pertaining to the eye @@ "Latin (oculus), the eye" @@ Oculist
+odont(o)- @@ of or pertaining to teeth @@ "Greek _____, _____- (odoús, odont-), tooth" @@ orthodontist
+odyn(o)- @@ pain @@ Greek _____ @@ stomatodynia
+"-oesophageal, oesophago- (BrE)" @@ gullet @@ Greek _________ @@ oesophagus
+-oid @@ resemblance to @@ Greek -______ @@ Sarcoidosis
+ole @@ small or little @@ Latin @@ 
+olig(o)- @@ "having little, having few" @@ "Greek ______ (oligos), few" @@ oligotrophy
+om(o)- @@ shoulder @@ "Greek ____ (_mos), shoulder" @@ omoplate
+"-oma (singular), -omata (plural)" @@ "tumor, mass, fluid collection" @@ Greek -___ @@ "sarcoma, teratoma, mesothelioma"
+omphal(o)- @@ "of or pertaining to the navel, the umbilicus" @@ "Greek _______ (omphalós), navel, belly-button" @@ omphalotomy
+onco- @@ "tumor, bulk, volume" @@ Greek _____ @@ oncology
+-one @@  @@  @@ hormone
+onych(o)- @@ of or pertaining to the nail (of a finger or toe) @@ "Greek ____, _____- (ónyx, ónycho-), nail; claw; talon" @@ onychophagy
+oo- @@ "of or pertaining to an (egg), a woman's egg, the ovum" @@ "Greek ___, __- (_ón, _o-), egg, ovum" @@ oogenesis
+oophor(o)- @@ of or pertaining to the woman's (ovary) @@ "Neoclassical Greek _______ (_ophóron), ovary, egg-bearing" @@ oophorectomy
+ophthalm(o)- @@ of or pertaining to the (eye) @@ "Greek ________ (ophthalmós), the eye" @@ ophthalmology
+opistho- @@ "back, behind, rear[8]" @@ "Greek roots, _π_____, opisthen meaning ""behind""" @@ opisthotonus
+-opsy @@ examination or inspection @@ "Greek ____ (opsis), sight" @@ "biopsy, autopsy"
+optic(o)- @@ of or relating to chemical properties of the eye @@ "Middle French (optique), from Greek _π_____ (optikós), cognate with Latin oculus, relating to the eye" @@ "opticochemical, biopsy"
+or(o)- @@ of or pertaining to the mouth @@ "Latin (_s, or-), mouth" @@ oral
+-or @@ one who @@  @@ doctor
+"orchi(o)-, orchid(o)-, orch(o)-" @@ testis @@ "Greek _____ (orkhis, orkhi-)" @@ "orchiectomy, orchidectomy"
+orth(o)- @@ denoting something as straight or correct @@ "Greek _____ (orthós), straight, correct, normal" @@ orthodontist
+-osis @@ "a condition, disease or increase" @@ Greek -____ @@ "Harlequin type ichthyosis, psychosis, osteoporosis"
+osse- @@ bony @@ Latin @@ osseous
+ossi- @@ bone @@ Latin @@ peripheral ossifying fibroma
+"ost(e)-, oste(o)-" @@ bone @@ Greek ______ @@ "osteoporosis, osteoarthritis"
+ot(o)- @@ of or pertaining to the ear @@ "Greek ___, __- (ous, _t-), the ear" @@ otology
+-ous @@ pertaining to @@ Latin -osus @@ porous
+ovari(o)- @@ of or pertaining to the ovaries @@ "Latin (_varium), ovary" @@ ovariectomy
+"ovo-, ovi-, ov-" @@ "of or pertaining to the eggs, the ovum" @@ "Latin (_vum), egg, ovum" @@ ovogenesis
+oxo- @@ addition of oxygen @@ Greek ____ @@ 
+oxy- @@ "sharp, acid, acute; oxygen" @@ Greek ____ (oxus) @@ "oxytocin, oxygenated, oxycodone"
+pachy- @@ thick @@ Greek π____ @@ pachyderma
+palpebr- @@ of or pertaining to the eyelid (uncommon as a root) @@ "Latin (palpebra), eyelid" @@ palpebra
+"pan-, pant(o)-" @@ "denoting something as 'complete' or containing 'everything'; ""all""" @@ "Greek π__, π__- (pas, pan-), all, every" @@ "panophobia, panopticon, pancytopenia (deficiency in 'ALL' blood cell types - erythrocytes, leukocytes, thrombocytes)[9]"
+papill- @@ of or pertaining to the nipple (of the chest/breast) @@ "Latin (papilla), nipple; diminutive of papula (see below)" @@ papillitis
+papul(o)- @@ "Indicates papulosity, a small elevation or swelling in the skin, a pimple, swelling" @@ "Latin (papula), pimple, pustle; a small elevation or swelling in the skin" @@ papulation
+para- @@ alongside of @@ Greek π___ (para) @@ paracyesis
+-paresis @@ slight paralysis @@ Greek π______ @@ hemiparesis
+parvo- @@ small @@ Latin parvus @@ Parvovirus
+path(o)- @@ disease @@ Greek π____ @@ Pathology
+-pathy @@ "denotes (with a negative sense) a disease, or disorder" @@ "Greek π____ (pathos), suffering, accident" @@ "sociopathy, neuropathy"
+pauci- @@ Few @@ Latin paucus @@ Pauci-immune
+pector- @@ breast or chest @@ Latin pectus @@ "pectoralgia, pectoriloquy, pectorophony"
+"ped-, -ped-, -pes " @@ of or pertaining to the foot; -footed @@ "Latin p_s, p_d-, foot" @@ Pedoscope
+"ped-, pedo-" @@ of or pertaining to the child @@ "Greek π_____, child" @@ pediatrics. pedophilia
+"pelv(i)-, pelv(o)-" @@ hip bone @@ Latin @@ Pelvis
+-penia @@ deficiency @@ Greek π____ @@ osteopenia
+peo- @@ of or pertaining to the penis @@ Greek π___ (peos) @@ Peotomy
+-pepsia @@ "denotes something relating to digestion, or the digestive tract." @@ "Greek π_π___ (peptós) cooked, digested < π____ (péss_) I boil, cook; digest" @@ dyspepsia
+per- @@ through @@ Latin @@ percutaneous
+peri- @@ denoting something with a position 'surrounding' or 'around' another @@ "Greek π___ (peri), around" @@ periodontal
+-pexy @@ fixation @@ Greek π____ @@ nephropexy
+phaco- @@ lens-shaped @@ Greek _____ @@ "phacolysis, phacometer, phacoscotoma"
+"-phage, -phagia" @@ Forms terms denoting conditions relating to eating or ingestion @@ Greek _____ (phagía) eating < ______ (phagein) to eat @@ Sarcophagia
+-phago- @@ "eating, devouring" @@ Greek -_____ @@ phagocyte
+phagist- @@ Forms nouns that denote a person who 'feeds on' the first element or part of the word @@ Greek ________ (phagist_s) eater; see -phagia @@ Lotophagi
+-phagy @@ Forms nouns that denotes 'feeding on' the first element or part of the word @@ Greek _____ (phagia) eating; see -phagia @@ hematophagy
+phall- @@ phallus @@ Greek ______ (phallos) @@ Aphallia
+pharmac- @@ "drug, medication" @@ Greek ________ @@ pharmacology
+pharyng- @@ "of or pertaining to the pharynx, the upper throat cavity" @@ "Greek ______, ______- (phárynx, pháryng-), throat, windpipe; chasm" @@ "pharyngitis, pharyngoscopy"
+-phil(ia) @@ attraction for @@ Greek _____ @@ hemophilia
+phleb- @@ "of or pertaining to the (blood) veins, a vein" @@ "Greek ____, ____- (phleps, phlebo-), blood-vessel, vein" @@ "phlebography, phlebotomy"
+-phobia @@ "exaggerated fear, sensitivity, aversion" @@ Greek _____ @@ arachnophobia
+phon- @@ sound @@ Greek ____ @@ "phonograph, symphony"
+phos- @@ "of or pertaining to light or its chemical properties, now historic and used rarely. See the common root phot- below." @@ "Greek ___, ___- (ph_s, ph_t-), light" @@ phosphene
+phot- @@ of or pertaining to light @@ "Greek ___, ___- (ph_s, ph_t-), light" @@ photopathy
+"phren-, phrenic-" @@ the mind @@ "Greek ____, ____-" @@ "phrenic nerve, schizophrenia"
+phyllo- @@ leaf-like @@  @@ phyllodes tumour
+phyt- @@ to grow @@  @@ hydrophyte
+pia- @@ soft @@  @@ pia mater
+piri- @@ Pear @@ "Latin pirum, pear" @@ Piriformis muscle
+-plasia @@ "formation, development" @@ Greek π_____ @@ Achondroplasia
+-plasty @@ "surgical repair, reconstruction" @@ Greek π______ @@ rhinoplasty
+-plegia @@ paralysis @@ Greek π____ @@ paraplegia
+pleio- @@ "more, excessive, multiple" @@ Greek π_____ @@ pleiomorphism
+pleur- @@ of or pertaining to the ribs @@ "Latin (pleura) from Greek π______ (pleurón), rib, side of the body" @@ Pleurogenous
+-plexy @@ stroke or seizure @@ Greek π_____ @@ Cataplexy
+"pne-, pneum-" @@ "air, breath, lung" @@ "Greek π____ (pneîn), π_____, π________ (pneûma), π______ (pneúm_n)" @@ "apnea, pneumatology, pneumonocyte, pneumonia"
+"pod-, -pod-, -pus " @@ "of or pertaining to the foot, -footed" @@ "Greek π___, π__- (poús, pod-), foot" @@ podiatry
+-poiesis @@ production @@  @@ hematopoiesis
+polio- @@ having a grey color @@ "Greek π_____ (poliós), ""grey""" @@ poliomyelitis
+poly- @@ denotes a 'plurality' of something @@ "Greek π____ (polys), ""much, many""" @@ polymyositis
+por- @@ "pore, porous" @@ π____ (póros) @@ pore
+porphyr- @@ denotes a purple color @@ "Greek π__π___ (porph_ra), ""purple""" @@ porphyroblast
+post- @@ denotes something as 'after' or 'behind' another @@ "Latin (post), after, behind" @@ "postoperation, postmortem"
+pre- @@ denotes something as 'before' another (in [physical] position or time) @@ "Medieval Latin (pre-) < (Classical) Latin (præ), before, in front of" @@ premature birth
+presby- @@ old age @@ Greek @@ "presbyopia, presbycusis[10]"
+prim- @@ denotes something as 'first' or 'most-important' @@ "Latin pr_mus, first, most important" @@ primary
+pro- @@ denotes something as 'before' another (in [physical] position or time) @@ "Greek π__ (pro), before, in front of" @@ procephalic
+proct- @@ "anus, rectum" @@  @@ proctology
+prosop- @@ face @@ "Greek (prosopon), face, mask" @@ prosopagnosia
+prot- @@ denotes something as 'first' or 'most important' @@ "Greek π_____ (pr_tos), first; principal, most important" @@ protoneuron
+pseud- @@ denotes something false or fake @@ Greek @@ pseudoephedrine
+psor- @@ Itching @@  @@ psoriasis
+psych- @@ of or pertaining to the mind @@ "Greek ____ (psyché), breath, life, soul" @@ "psychology, psychiatry"
+pterygo- @@ Pertaining to a wing @@ Greek @@ lateral pterygoid plate
+-ptosis @@ "falling, drooping, downward placement, prolapse" @@  @@ "apoptosis, nephroptosis"
+-ptysis @@ spitting @@ Greek @@ "hemoptysis, the spitting of blood derived from the lungs or bronchial tubes"
+"pulmon-, pulmo-" @@ of or relating to the lungs @@ "Latin (pulmo, pulm_n-, usually used in plural), a lung" @@ pulmonary
+py- @@ pus @@ Greek π___ @@ pyometra
+pyel- @@ pelvis @@ Greek (pyelos) @@ pyelonephritis
+pykno- @@ to thicken (as the nucleus does in early stages of cell death) @@ "Greek π______, to thicken or condense" @@ pyknosis
+pylor- @@ gate @@ Greek @@ pyloric sphincter
+pyr- @@ fever @@ "Greek π__, π______" @@ antipyretic
+quadr(i)- @@ four @@ Latin @@ quadriceps
+radi- @@ radiation @@ Latin @@ radiowave
+radic- @@ "referring to the beginning, or the root, of a structure, usually a nerve or a vein" @@ Latin (radix) root @@ radiculopathy
+re- @@ "again, back" @@ Latin @@ relapse
+rect- @@ rectum @@ Latin @@ "rectal, rectum"
+ren- @@ of or pertaining to the kidney @@ "Latin (r_nes), kidney" @@ renal
+reticul(o)- @@ net @@ Latin @@ reticulocyte
+retro- @@ "backward, behind" @@ Latin @@ "retroversion, retroverted"
+rhabd(o)- @@ "rod shaped, striated" @@ Greek ______ @@ rhabdomyolysis
+rhachi(o)- @@ spine @@ Greek _____ @@ "rachial, rachialgia, rachidian, rachiopathy"
+rhin(o)- @@ of or pertaining to the nose @@ "Greek ___, ____- (rh_s, rh_no-), nose" @@ "rhinoceros, rhinoplasty"
+rhod(o)- @@ denoting a rose-red color @@ "Greek _____ (rhódon), rose" @@ rhodophyte
+-rrhage @@ burst forth @@ Greek -______ @@ Hemorrhage
+-rrhagia @@ rapid flow of blood @@ Greek -______ @@ menorrhagia
+-rrhaphy @@ surgical suturing @@ Greek ____ @@ neurorrhaphy
+-rrhea (AmE) @@ "flowing, discharge" @@ Greek -_____ @@ "galactorrhea, diarrhea"
+-rrhexis @@ rupture @@ Greek _____ @@ karyorrhexis
+-rrhoea (BrE) @@ "flowing, discharge" @@ Greek -_____ @@ diarrhoea
+rubr(o)- @@ of or pertaining to the red nucleus of the brain @@ "Latin (ruber), red" @@ rubrospinal
+-rupt @@ break or burst @@ Latin @@ "erupt, interrupt"
+salping(o)- @@ "of or pertaining to tubes, e.g. Fallopian tubes" @@ "Greek ___π___, ___π___-, (sálpinx, salpingo-), ""trumpet""" @@ "salpingectomy, salpingopharyngeus muscle"
+"sangui-, sanguine-" @@ of or pertaining to blood @@ "Latin (sanguis, sanguin-), blood" @@ sanguine
+sarco- @@ "muscular, flesh-like" @@ "Greek ____, ____-" @@ "sarcoma, sarcoidosis"
+schist(o)- @@ "split, cleft" @@ Greek _______ (schistos) @@ schistocyte
+schiz(o)- @@ "denoting something ""split"" or ""double-sided""" @@ "Greek _____; irregular formation of the verb _______ (schizein), to cut, split" @@ schizophrenia
+scler(o)- @@ hard @@ Greek _______ @@ scleroderma
+-sclerosis @@ hardening @@ Greek _________ @@ "atherosclerosis, multiple sclerosis"
+scoli(o)- @@ twisted @@ Greek _______ (skolios) @@ scoliosis
+-scope @@ instrument for viewing @@ Greek -___π__ @@ stethoscope
+-scopy @@ use of instrument for viewing @@ Greek -___π__ @@ endoscopy
+scoto- @@ darkness @@ Greek ______ (skotos) @@ scotopic vision
+semi- @@ "one-half, partly" @@ Latin @@ semiconscious
+sial(o)- @@ "saliva, salivary gland" @@ Greek ______ (sialos) @@ sialagogue
+sigmoid(o)- @@ "sigmoid, S-shaped curvature" @@ Greek __________ @@ sigmoid colon
+sinistr(o)- @@ "left, left side" @@ Latin @@ 
+sinus- @@ of or pertaining to the sinus @@ "Latin (sinus), a curve, bend, bay" @@ sinusitis
+sito- @@ "food, grain" @@ Greek _____ (sitos) @@ sitophobia
+"somat(o)-, somatico-" @@ "body, bodily" @@ Greek ____ (s_ma) @@ somatic
+somn(o) @@ Sleep @@  @@ insomniac[11]
+-spadias @@ "slit, fissure" @@ Greek _π____ @@ "hypospadias, epispadias"
+spasmo- @@ spasm @@ Greek _π_____ @@ Spasmodic dysphonia
+"sperma-, spermo-, spermato-" @@ "semen, spermatozoa" @@ Greek _π____ (sperma) @@ spermatogenesis
+"splanchn(i)-, splanchn(o)-" @@ viscera @@ Greek _π_______ @@ splanchnology
+splen(o)- @@ spleen @@ "Greek _π___, _π___-" @@ splenectomy
+spondyl(o)- @@ "of or pertaining to the spine, the vertebra" @@ "Greek _π_______ / _________, (spóndylos, sphóndylos), the spine" @@ spondylitis
+squamos(o)- @@ "denoting something as ""full of scales"" or ""scaly""" @@ "Latin sq_m_sus, full of scales; scaly" @@ squamous cell
+-stalsis @@ contraction @@ Greek _______ @@ peristalsis
+-stasis @@ "stopping, standing" @@ Greek ______ @@ "cytostasis, homeostasis"
+-staxis @@ "dripping, trickling" @@ "Greek ______, _______" @@ 
+sten(o)- @@ "denoting something as ""narrow in shape"" or pertaining to narrowness" @@ "Greek ______ (stenos); narrow, short" @@ stenography
+-stenosis @@ abnormal narrowing of a blood vessel or other tubular organ or structure @@ Greek ________ (sten_sis) @@ "restenosis, stenosis"
+steth- @@ "of or pertaining to the upper chest, the area above the breast and under the neck" @@ "Greek ______ (st_thos), chest, cuirass" @@ stethoscope
+stheno- @@ "strength, force, power" @@ Greek ______ @@ 
+"stom-, stomat-" @@ of or pertaining to the mouth; an artificially created opening[12] @@ "Greek _____, ______- (stóma, stomat-), ""mouth""" @@ "stomatogastric, stomatognathic system"
+-stomy @@ creation of an opening @@ Greek -______ @@ colostomy
+sub- @@ "beneath, under" @@ Latin @@ subcutaneous tissue
+super- @@ "in excess, above, superior" @@ Latin @@ superior vena cava
+supra- @@ "above, excessive" @@ Latin @@ supraorbital vein
+"sy, syl-, sym-, syn-, sys-" @@ "indicates similarity, likeness, or being together; assimilates before some consonants: before l to syl-, s to sys-, before a labial consonant to sym-" @@ "Greek ___- (syn), with, together" @@ "symptom, synalgia, synesthesia, syssarcosis"
+tachy- @@ "denoting something as fast, irregularly fast" @@ "Greek _____ (tachys), fast, quickly" @@ tachycardia
+"-tension, -tensive" @@ pressure @@ Latin @@ hypertension
+terato- @@ Monster @@ Greek teras(s) terata(pl) @@ "teratoma, teratogen"
+tetan- @@ "rigid, tense" @@ Greek tetanos @@ tetanus
+thec- @@ "case, sheath" @@ Greek ____ (th_k_) @@ intrathecal
+thel- @@ of or pertaining to a nipple (uncommon as a prefix) @@ "Greek ____ (th_l_), a teat, nipple" @@ "Theleplasty, thelarche"
+thely- @@ "denoting something as 'relating to a woman, feminine'" @@ "Greek _____ (th_lys), female, feminine" @@ Thelygenous
+therap- @@ treatment @@ Greek (therapeía) @@ "hydrotherapy, therapeutic"
+therm(o)- @@ heat @@ Greek ______ (thermós) @@ hypothermia
+"thorac(i)-, thorac(o)-, thoracico-" @@ "of or pertaining to the upper chest, chest; the area above the breast and under the neck" @@ "Latin (th_r_x) < Greek _____ (th_rax), chest, cuirass" @@ "thoracic, thorax"
+thromb(o)- @@ "of or relating to a blood clot, clotting of blood" @@ "Greek _______ (thrómbos), lump, piece, clot of blood" @@ "thrombus, thrombocytopenia"
+thyr(o)- @@ thyroid @@ Greek _____-_____ @@ 
+thym- @@ emotions @@ "Greek: ""thymos"", spirit, soul; courage; breath, mind, emotions" @@ dysthymia
+-tic @@ pertaining to @@ Greek -_____ @@ 
+toco- @@ childbirth @@ Greek _____ @@ tocolytic
+-tome @@ cutting instrument @@ Greek ____ (tom_) @@ 
+-tomy @@ "act of cutting; incising, incision" @@ Greek -_____ @@ Gastrotomy
+ton- @@ "tone, tension, pressure" @@ Greek _____ (tonos) @@ 
+-tony @@ tension @@ Greek -_____ @@ 
+top(o)- @@ "place, topical" @@ Greek __π__ (topos) @@ Topical anesthetic
+tort(i)- @@ twisted @@ Latin tortus @@ Torticollis
+"tox(i)-, tox(o)-, toxic(o)-" @@ "toxin, poison" @@ Greek _______ @@ Toxoplasmosis
+trache(a)- @@ trachea @@ Greek _______ @@ Tracheotomy
+trachel(o)- @@ of or pertaining to the neck @@ "Greek ________ (trách_los), neck" @@ tracheloplasty
+trans- @@ denoting something as moving or situated across or through @@ "Latin tr_ns, ""across, through""" @@ Transfusion
+tri- @@ three @@ Latin @@ "triangle, triceps"
+"trich(i)-, trichia, trich(o)-" @@ "of or pertaining to hair, hair-like structure" @@ "Greek ____, ____(_)- (thríx, trich(o)-), hair" @@ trichocyst
+-tripsy @@ crushing @@ Greek ______ @@ lithotripsy
+-trophy @@ "nourishment, development" @@ "Greek -______, _____" @@ pseudohypertrophy
+tympan(o)- @@ eardrum @@ Greek ___π____ @@ tympanocentesis
+"-ula, -ule" @@ small @@ Latin @@ Nodule
+ultra- @@ "beyond, excessive" @@ Latin ultra @@ "ultrasound, ultraviolet"
+umbilic- @@ "of or pertaining to the navel, the umbilicus" @@ "Latin umbil_cus, navel, belly-button" @@ umbilical
+ungui- @@ "of or pertaining to the nail, a claw" @@ "Latin unguis, nail, claw" @@ "unguiform, ungual"
+un(i)- @@ one @@ Latin unus @@ unilateral hearing loss
+ur- @@ "of or pertaining to urine, the urinary system" @@ "Greek ______ (oureîn); _____ (oûron), urine; _______ (our_t_r); _______ (our_thra)" @@ "antidiuretic, diuresis, diuretic, dysuria, enuresis, polyurea, polyuria, uraemia/uremia, uremic, ureter, urethra, urology"
+uric- @@ uric acid @@ Greek _______ @@ 
+urin- @@ "of or pertaining to urine, the urinary system" @@ "Latin _r_na, urine < Greek _____ (ouron), see above." @@ uriniferous
+uter(o)- @@ of or pertaining to the uterus or womb @@ "Latin uterus, womb, uterus" @@ uterus
+vagin- @@ of or pertaining to the vagina @@ "Latin v_g_na, sheath, scabbard" @@ vaginal epithelium
+varic(o)- @@ swollen or twisted vein @@ Latin varix @@ varicose
+vas(o)- @@ "duct, blood vessel" @@ Latin @@ vasoconstriction
+vasculo- @@ blood vessel @@ Latin v_sculum @@ 
+ven- @@ "of or pertaining to the veins, venous blood, and the vascular system" @@ "Latin (v_na), blood-vessel, vein" @@ "venule, venospasm"
+ventr(o)- @@ "of or pertaining to the belly, the stomach cavities" @@ "Latin (venter), belly, stomach, womb" @@ ventrodorsal
+ventricul(o)- @@ of or pertaining to the ventricles; any hollow region inside an organ @@ "Latin venter, the ventricles of the heart, the ventricles of the brain" @@ "cardiac ventriculography, atrioventricular node"
+-version @@ turning @@ Latin versi_ @@ "anteversion, retroversion"
+vesic(o)- @@ of or pertaining to the bladder @@ "Latin v_s_ca, bladder, blister" @@ vesical arteries
+viscer(o)- @@ "of or pertaining to the internal organs, the viscera" @@ "Latin viscus (pl. viscera), internal organ(s)" @@ viscera
+xanth(o)- @@ "having a yellow color, especially an abnormally yellow color" @@ "Greek ______ (xanthós), yellow" @@ xanthopathy
+xen(o)- @@ "foreign, different" @@ "Greek _____ (xénos), stranger" @@ xenograft
+xer(o)- @@ "dry, desert-like" @@ "Greek _____ (x_rós), dry" @@ "xerostomia, xeroderma"
+xiph- @@ sword @@ "Greek _____ (xíphos), sword" @@ "xiphisternum, xiphoid, xiphoidalgia"
+-y @@ condition or process of @@ "Latin -ia, from Greek -__" @@ surgery
+zo(o)- @@ "animal, animal life" @@ Greek ____ @@ zoology
+zym(o)- @@ fermentation @@ Greek ____ @@ "enzyme, lysozyme"

@@ -1,0 +1,4 @@
+This is a little test-file
+to see if i can read, from Swift, 
+an input, and do so when run from
+within Xcode and AppCode.
